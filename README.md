@@ -14,7 +14,7 @@ LalopathyAI is the playground book project that I prepared is an interactive voi
  
  This playground book was made using the latest technologies such as SwiftUI, CoreML, CreateML, Combine. Thus, I was able to make a playground book project, the infrastructure of which is equipped with the most powerful technologies and compatible with future innovations.
  
- ## Creating and Training The Model 👩‍🏫
+ # Creating and Training The Model 👩‍🏫
  
  The machine learning model used in this playground book was trained by me using 80 different sounds. I recorded these 80 different sounds with iPhone using AirPods.
 
