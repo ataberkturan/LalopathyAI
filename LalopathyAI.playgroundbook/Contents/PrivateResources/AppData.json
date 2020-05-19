@@ -1,0 +1,42 @@
+{
+    "AppData": {
+        "Titles": [
+            "LalopathyAI",
+            "Welcome",
+            "Lalopathy?",
+            "LalopathyAI?",
+            "Say Something!",
+            "Is not it?"
+        ],
+
+        "CatalogSubtitles": [
+            "WWDC20",
+            "What is",
+            "Charming!"
+        ],
+
+        "CatalogTexts": [
+            "Today, you will learn what Lalopathy is and you will be able to test yourself with a fun demo prepared with AI.",
+            "Lalopathy is a situation that occurs as a result of the inability to make sounds correctly and properly. This problem may start at a very young age or It may stem from neurological disorders.",
+            "Lalopathy uses a machine learning tool created with the help of CreateML to detect symptoms of speech disorder. This specialized trained machine learning tool can help us to detect the finest sound breaks in voice in such circumstances.",
+            "You have completed the playground. Now, you know what Lalopathy is and you have seen how useful a machine learning tool can be to people in the future. Thank you for being with me on this journey. I hope to see you on WWDC20, of course online!"
+        ],
+
+        "CatalogImages": [
+            "welcomeMemojies.png",
+            "bewitchedMemojies.png",
+            "charmingMemojies.png"
+        ],
+
+        "Memojies": [
+            "PartyGirlMemoji.png",
+            "BlinkingMemoji.png",
+            "CrazySmileyMemoji.png",
+            "BlowMindsMemoji.png",
+            "LoverMemoji.png",
+            "StarMemoji.png",
+            "AwesomeMemoji.png",
+            "OMGMemoji.png"
+        ]
+    }
+}
