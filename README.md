@@ -2,7 +2,7 @@
 ![LalopathyAI Banner](https://i.hizliresim.com/0Fve6N.png)
 **My WWDC20 Swift Student Challenge Submission(Accepted)**
 
-![Accepted Mail](https://hizliresim.com/INEYek)
+![Accepted Mail](https://i.hizliresim.com/INEYek.jpg)
 
 # What's LalopathyAI?
 
