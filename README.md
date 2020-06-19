@@ -2,6 +2,8 @@
 ![LalopathyAI Banner](https://i.hizliresim.com/0Fve6N.png)
 **My WWDC20 Swift Student Challenge Submission(Accepted)**
 
+![Accepted Mail](https://hizliresim.com/INEYek)
+
 # What's LalopathyAI?
 
 LalopathyAI is the playground book project that I prepared is an interactive voice recorded by the user and try to detect speech disorder. It is also a tutorial playground book that explains what Lalopathy is step by step.
