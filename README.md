@@ -3,6 +3,7 @@
 **My WWDC20 Swift Student Challenge Submission(Accepted)**
 
 ![Accepted Mail](https://i.hizliresim.com/INEYek.jpg)
+![WWDCScholars Page](https://www.wwdcscholars.com/s/A80D9FA0-1302-4E21-A7D1-F4A9D4FAACE9)
 
 # What's LalopathyAI?
 
